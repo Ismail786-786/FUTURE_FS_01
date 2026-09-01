@@ -83,37 +83,37 @@ export const PROJECTS: {
     title: "LogicGuard",
     category: "Full Stack",
     description:
-      "A web application that evaluates propositional logic constraints, pairing a React interface with a FastAPI solver. Built as an Anna University Discrete Mathematics course project.",
-    tech: ["React", "FastAPI", "Python", "TypeScript"],
-    demo: "https://github.com/mohammedismailh",
-    github: "https://github.com/mohammedismailh",
+      "Web application evaluating propositional logic constraints using FastAPI and React, built for an Anna University Discrete Mathematics course project.",
+    tech: ["React", "FastAPI", "Tailwind CSS", "Python"],
+    demo: "https://github.com/Ismail786-786",
+    github: "https://github.com/Ismail786-786",
   },
   {
     title: "NeonSnap Studio",
     category: "Full Stack",
     description:
-      "A web-based AR photo booth with live face tracking, custom overlays, and QR code generation for instant photo hand-off.",
-    tech: ["React", "WebRTC", "Face Tracking", "QR"],
-    demo: "https://github.com/mohammedismailh",
-    github: "https://github.com/mohammedismailh",
+      "Web-based AR photo booth application featuring live face tracking, custom overlays, background segmentation, and dynamic QR code generation.",
+    tech: ["JavaScript", "Web AR", "Tailwind CSS"],
+    demo: "https://github.com/Ismail786-786",
+    github: "https://github.com/Ismail786-786",
   },
   {
     title: "AI Content Suite",
     category: "AI & Tools",
     description:
-      "Future Interns build: an AI website copy generator, a UGC ad script generator, and an SEO content cluster engine driven by structured prompt pipelines.",
-    tech: ["Prompt Engineering", "Python", "LLM APIs", "SEO"],
-    demo: "https://github.com/mohammedismailh",
-    github: "https://github.com/mohammedismailh",
+      "Multi-tier AI prompt framework and web tool generating local business website copies, UGC video ad scripts, and SEO content clusters.",
+    tech: ["React", "Next.js", "Prompt Engineering", "Tailwind CSS"],
+    demo: "https://github.com/Ismail786-786",
+    github: "https://github.com/Ismail786-786",
   },
   {
-    title: "Fitness Tracker & Flashcard Apps",
+    title: "Mobile & IoT Works",
     category: "Mobile & IoT",
     description:
-      "Jetpack Compose Android applications built during internship tasks — activity logging with progress stats, plus a spaced-repetition flashcard deck.",
-    tech: ["Kotlin", "Jetpack Compose", "Android", "Room"],
-    demo: "https://github.com/mohammedismailh",
-    github: "https://github.com/mohammedismailh",
+      "Android applications built with Jetpack Compose (Fitness Tracker & Flashcard App) alongside ESP32 embedded systems telemetry dashboards.",
+    tech: ["Kotlin", "Jetpack Compose", "ESP32", "Arduino IDE", "Blynk"],
+    demo: "https://github.com/Ismail786-786",
+    github: "https://github.com/Ismail786-786",
   },
 ];
 
@@ -145,7 +145,7 @@ export const POSTS = [
 ];
 
 export const CONTACT = {
-  email: "mohammedismailh.dev@gmail.com",
-  linkedin: "https://www.linkedin.com/in/mohammed-ismail-h",
-  github: "https://github.com/mohammedismailh",
+  email: "mohammedismailh2008@gmail.com",
+  linkedin: "https://www.linkedin.com/in/mohammed-ismail-bb05a5385/",
+  github: "https://github.com/Ismail786-786",
 };
