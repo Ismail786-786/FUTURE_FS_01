@@ -5,7 +5,7 @@ import { SKILL_GROUPS } from "./data";
 const ICONS = { Layout, Database, Cpu, Wrench };
 
 export function Skills() {
-  const [active, setActive] = useState(SKILL_GROUPS[0].id);
+  const [active, setActive] = useState<string>("frontend");
 
   return (
     <section id="skills" className="section-shell border-t border-border py-16 lg:py-20">
